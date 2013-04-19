@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  18 APR 2013 21:35
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.26)  18 APR 2013 22:04
 entering extended mode
  %&-line parsing enabled.
 **stock_market_project_notes.tex
@@ -237,7 +237,15 @@ Package: xy 1999/02/16 Xy-pic version 3.7
 (/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
  Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
 (/usr/share/texmf-texlive/tex/generic/xypic/xygraph.tex
- Xy-pic option: Graph feature v.3.7 loaded) loaded))
+ Xy-pic option: Graph feature v.3.7 loaded) loaded)) (./gsDefns.tex
+\c@thm=\count109
+\c@alg=\count110
+\c@lemn=\count111
+\c@nothing=\count112
+\c@goal=\count113
+\c@mythm=\count114
+\c@thmn=\count115
+)
 (./stock_market_project_notes.aux)
 \openout1 = `stock_market_project_notes.aux'.
 
@@ -262,27 +270,35 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./stock_market_projec
-t_notes.aux) ) 
+)
+Overfull \hbox (1.82324pt too wide) in paragraph at lines 40--41
+ \OT1/cmr/m/n/10.95 1.1.\OT1/cmr/bx/n/10.95 Abstract al-go-rithms.[] \OT1/cmr/m
+/n/10.95 An \OT1/cmr/bx/n/10.95 ex-change al-go-rithm \OT1/cmr/m/n/10.95 is a f
+unc-tion $\OML/cmm/m/it/10.95 f$ \OT1/cmr/m/n/10.95 which
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./stock_market_project_notes.aux) ) 
 Here is how much of TeX's memory you used:
- 3994 strings out of 495061
- 46267 string characters out of 1182621
- 130591 words of memory out of 3000000
- 6983 multiletter control sequences out of 15000+50000
+ 4195 strings out of 495061
+ 47147 string characters out of 1182621
+ 133613 words of memory out of 3000000
+ 7181 multiletter control sequences out of 15000+50000
  12876 words of font info for 52 fonts, out of 3000000 for 9000
  189 hyphenation exceptions out of 8191
- 34i,4n,43p,263b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/s
-hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/publi
-c/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-
-Output written on stock_market_project_notes.pdf (1 page, 88707 bytes).
+ 34i,8n,43p,263b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr9.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on stock_market_project_notes.pdf (1 page, 109405 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

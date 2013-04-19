@@ -12,7 +12,7 @@
 \usepackage{verbatim}
 \usepackage[all]{xy}
 
-
+\input{gsDefns}
 
 \begin{document}
 
@@ -37,12 +37,41 @@
 
 \subsection{Abstract algorithms}
 
-An algorithm is a function which takes as input data as an $n$-dimensional array and outputs a number $-100 \leq x \leq 100$:
+An {\bf exchange algorithm} is a function $f$ which takes as input data $D$ an $n$-dimensional array and outputs a number 
+$$
+-100 \leq x = f(D)\leq 100:
+$$
 \begin{itemize}
 \item if $x > 0$ then buy using $x \%$, 
 \item if $x < 0$ then sell $x \%$.
 \end{itemize}
 
+Generally an exchange algorithm is described informally, which is naively implemented as a list of conditionals.
 
+\begin{ex}
+
+Suppose $D$ is the $[(n + 1) \times 1]$ matrix
+$$
+D = \ma{p_0 \\ p_1 \\ \vdots \\ p_n}
+$$
+of the prices of a company for the last $n + 1$ day. The exchange algorithm implementing
+\begin{itemize}
+\item Buy using $x\%$ if the price has increased by $p \%$ today 
+\item sell $x \%$ if the price has decreased by $p \%$ today 
+\end{itemize}
+is
+
+\end{ex}
+
+\begin{ex}
+\end{ex}
+
+\begin{ques}	
+\end{ques}
+
+
+
+
+To facilitate evolution, we suggest 
  
 \end{document}

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1366346159 "stock_market_project_notes.tex" "stock_market_project_notes.pdf" "stock_market_project_notes" 
+["pdflatex"] 1366347876 "stock_market_project_notes.tex" "stock_market_project_notes.pdf" "stock_market_project_notes" 
   "/usr/share/texmf-texlive/tex/generic/xypic/xy.sty" 1137109563 3709 e65d5aa7bca08a21934634afa9356a99 ""
   "/usr/share/texmf-texlive/tex/generic/xypic/xy.tex" 1137109563 114971 4c1f5a4d5a01168332e27d94892d7a13 ""
   "/usr/share/texmf-texlive/tex/generic/xypic/xyall.tex" 1137109563 1516 a877733909fbdca77e288f8c499adafd ""
@@ -29,8 +29,9 @@
   "/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty" 1160175134 20521 e5d13d98d57bd53d4fed3aa61bd29c86 ""
   "/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty" 1254151720 3328 485bddd4058e8ddb2a8849a8d397dcbc ""
   "/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty" 1254151720 7126 458bcca7c82ab4f7d9233063c8f6e9d6 ""
-  "stock_market_project_notes.aux" 1366346159 326 151bc742300d059d79180a8051a9bc21 ""
-  "stock_market_project_notes.tex" 1366346157 928 043f0251e3306193e1e47a846719fa78 ""
+  "gsDefns.tex" 1365393092 4944 8cc5daf33dccae410d9d8945b31be26d ""
+  "stock_market_project_notes.aux" 1366347876 320 631eede8efcc502701a8df8eefc5d214 ""
+  "stock_market_project_notes.tex" 1366347875 1537 06a3152fcffd95ee16a8f3aea9940a10 ""
   (generated)
   "stock_market_project_notes.aux"
   "stock_market_project_notes.log"
